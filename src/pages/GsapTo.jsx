@@ -11,8 +11,6 @@ const GsapTo = () => {
       rotation:360,
       duration:2,
       ease:'elastic'
-
-      
     })
   },[]);
 
